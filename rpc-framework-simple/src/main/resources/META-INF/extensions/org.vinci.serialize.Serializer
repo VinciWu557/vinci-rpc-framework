@@ -1,0 +1,3 @@
+kyro=org.vinci.serialize.kyro.KryoSerializer
+protostuff=org.vinci.serialize.protostuff.ProtostuffSerializer
+hessian=org.vinci.serialize.hessian.HessianSerializer

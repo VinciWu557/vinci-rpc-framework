@@ -1,0 +1,1 @@
+loadBalance=org.vinci.loadbalance.loadbalancer.ConsistentHashLoadBalance

@@ -1,0 +1,2 @@
+netty=org.vinci.remoting.transport.netty.client.NettyRpcClient
+socket=org.vinci.remoting.transport.socket.SocketRpcClient
